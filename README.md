@@ -1,6 +1,6 @@
 # React Playground
 
-Simple playground for learning React.
+Simple webpack boilerplate for React.
 
 ## Installation
 
@@ -19,3 +19,4 @@ Starts development server at [http://localhost:8080](http://localhost:8080).
 ## License
 
 This project is licensed under the [MIT License](https://github.com/jrutheiser/react-playground/blob/master/LICENSE).
+
